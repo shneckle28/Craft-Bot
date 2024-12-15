@@ -5,18 +5,18 @@ By using Craft Bot (“the Bot”), you agree to these Terms of Service. If you 
 2. Bot Functionality
 
 The Bot provides the following features:
-	•	Minecraft server management commands (e.g., /serverstatus).
-	•	Reminder commands (e.g., /setreminder).
-	•	Automated reactions, role management, and other interactive features.
+• Minecraft server management commands (e.g., /serverstatus).
+• Reminder commands (e.g., /setreminder).
+• Automated reactions, role management, and other interactive features.
 
 3. User Responsibilities
-	•	You must comply with Discord’s Terms of Service and Community Guidelines.
-	•	You agree not to use the Bot for illegal or unauthorized purposes.
-	•	Abuse, misuse, or attempts to exploit the Bot’s commands will result in bans or restrictions.
+• You must comply with Discord’s Terms of Service and Community Guidelines.
+• You agree not to use the Bot for illegal or unauthorized purposes.
+• Abuse, misuse, or attempts to exploit the Bot’s commands will result in bans or restrictions.
 
 4. Data Usage
-	•	The Bot collects minimal data to function, such as user IDs, guild IDs, and messages for reminders or server settings.
-	•	Data is only stored temporarily and will not be shared with third parties.
+• The Bot collects minimal data to function, such as user IDs, guild IDs, and messages for reminders or server settings.
+• Data is only stored temporarily and will not be shared with third parties.
 
 5. Limitation of Liability
 
