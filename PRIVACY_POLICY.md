@@ -1,33 +1,30 @@
-Acceptance of Terms
+# Privacy Policy
 
-By using Craft Bot (“the Bot”), you agree to these Terms of Service. If you do not agree, you may not use the Bot.
+## 1. Data Collection
 
-Bot Functionality
+The Bot collects the following data:
+- Guild IDs and Channel IDs: To store server-specific settings (e.g., reminders).
+- User IDs: To manage reminders and commands for specific users.
+- Messages: Limited to messages directly provided to the bot (e.g., reminder text).
 
-The Bot provides the following features:
-• Minecraft server management commands (e.g., /serverstatus).
-• Reminder commands (e.g., /setreminder).
-• Automated reactions, role management, and other interactive features.
+## 2. Data Usage
 
-User Responsibilities
+- Data is used solely to provide the Bot’s features, such as reminders, server status checks, and other commands.
+- The data is not shared, sold, or distributed to any third parties.
 
-• You must comply with Discord’s Terms of Service and Community Guidelines.
-• You agree not to use the Bot for illegal or unauthorized purposes.
-• Abuse, misuse, or attempts to exploit the Bot’s commands will result in bans or restrictions.
+## 3. Data Storage
 
-Data Usage
+- Data is stored securely in a database and is only accessible by the Bot.
+- Old or unused data (e.g., expired reminders) may be deleted periodically.
 
-• The Bot collects minimal data to function, such as user IDs, guild IDs, and messages for reminders or server settings.
-• Data is only stored temporarily and will not be shared with third parties.
+## 4. User Control
 
-Limitation of Liability
+Users can delete their stored data by using specific commands (e.g., /resetreminders) or by contacting the Bot developer.
 
-The Bot is provided “as-is” without warranty. The developer is not liable for any damages or issues caused by using the Bot.
+## 5. Changes to Privacy Policy
 
-Updates
+The developer reserves the right to update this Privacy Policy. Users will be notified of significant changes.
 
-The Bot may be updated, modified, or discontinued at any time without prior notice.
+## 6. Contact
 
-Termination
-
-The Bot developer reserves the right to terminate access to the Bot at any time for violation of these terms.
+If you have questions or concerns about this Privacy Policy, contact the developer at: shneckle on discord or in this sevrer: [text](https://discord.gg/8tD4VYscrH)
