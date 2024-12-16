@@ -6,7 +6,7 @@ By using Craft Bot (“the Bot”), you agree to these Terms of Service. If you 
 
 The Bot provides the following features:
 - Minecraft server management commands (e.g., /serverstatus).
-- Reminder commands (e.g., /setreminder).
+- Reminder commands (e.g., /setreminder, /settimezone).
 - Automated reactions, role management, and other interactive features.
 
 ## 2. User Responsibilities
